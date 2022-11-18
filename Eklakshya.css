@@ -1,0 +1,24 @@
+.contentCenter{
+    justify-content: center;
+    text-align: center;
+}
+ 
+
+.setVisibility{
+    z-index: -1;
+    
+}
+.shadow{
+    text-shadow: 2px 2px 5px rgb(251, 23, 7);
+}
+
+
+.font style{
+    font-style:italic;
+}
+ 
+
+
+ .text{
+    
+ }
